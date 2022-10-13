@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/iyke-e/project-tracking-intro-component-master)
-- Live Site URL: [Add live site URL here](https://iyke-e.github.io/project-tracking-intro-component-master/)
+- Solution URL: [click to view solution](https://github.com/iyke-e/project-tracking-intro-component-master)
+- Live Site URL: [click to view webpage](https://iyke-e.github.io/project-tracking-intro-component-master/)
 
 ### Built with
 
